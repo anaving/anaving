@@ -3,7 +3,7 @@
 <h3 align="center" style="font-family: sans-serif;">A passionate frontend developer from Brazil!</h3>
 
 
-<div align="center">
+<div align="center" style="max-width: 100%;">
   <a href="https://github.com/anaving">
   <img src="https://github-readme-stats.vercel.app/api?username=anaving&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img width="418" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaving&layout=compact&langs_count=16&theme=dracula"/> </a>
