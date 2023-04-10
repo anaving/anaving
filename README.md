@@ -1,5 +1,3 @@
-### Hi!! 👋
-
 <h3 align="center" style="font-family: sans-serif;">A passionate frontend developer from Brazil!</h3>
 
 
