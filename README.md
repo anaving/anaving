@@ -1,10 +1,10 @@
 <h3 align="center" style="font-family: sans-serif;">A passionate frontend developer from Brazil!</h3>
 
 
-<div align="center" style="max-width: 800px; max-width: 100%;">
+<div align="center" ">
   <a href="https://github.com/anaving">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaving&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img width="418" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaving&layout=compact&langs_count=16&theme=dracula"/> </a>
+  <img style="max-width: 800px; max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=anaving&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img style="max-width: 800px; max-width: 100%;" width="418" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaving&layout=compact&langs_count=16&theme=dracula"/> </a>
 
 
 <h3 align="center" style="font-family: sans-serif;">Languages and Tools:</h3>
