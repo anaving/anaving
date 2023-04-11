@@ -1,10 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 <h3 align="center" style="font-family: sans-serif;">A passionate frontend developer from Brazil!</h3>
 
 
-<div align="center" ">
+<div align="center" >
   <a href="https://github.com/anaving">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=anaving&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaving&layout=compact&langs_count=16&theme=dracula"/> </a>
+  <img width="303" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaving&layout=compact&langs_count=16&theme=dracula"/> </a>
 
 
 <h3 align="center" style="font-family: sans-serif;">Languages and Tools:</h3>
@@ -20,3 +29,10 @@
 <p align="center">
 <a href="https://linkedin.com/in/anacfl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anacfl/" height="30" width="40" /></a>
 </p>
+</body>
+</html>
+
+
+
+
+
